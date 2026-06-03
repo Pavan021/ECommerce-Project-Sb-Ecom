@@ -2,10 +2,10 @@ package com.ecommerce.project.models;
 
 public class Category {
 
-    private long categoryId;
+    private Long categoryId;
     private String categoryName;
 
-    public long getCategoryId() {
+    public Long getCategoryId() {
         return categoryId;
     }
 
